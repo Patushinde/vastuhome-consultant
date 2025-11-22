@@ -74,7 +74,7 @@ const Hero = () => {
           >
             <div className="mb-8">
               <h1 className="md:text-[50px] leading-[1.2] text-4xl  ml-4 text-midnight_text dark:text-white font-bold">
-                Find Your Best Real Estate
+                Apne Sapno ka Ghar Ab Vastu ke Hisab se
               </h1>
             </div>
             <div className="max-w-xl ml-4 sm:w-full">
